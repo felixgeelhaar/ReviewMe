@@ -47,7 +47,7 @@
     "google-play-scraper": "^6.2.3",
     "googleapis": "^20.2.0",
     "moment": "^2.24.0",
-    "npm": "^6.8.0",
+    "npm": "^8.19.2",
     "request": "^2.88.0"
   }
 }
